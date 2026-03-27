@@ -15,4 +15,4 @@ experience in Full Stack Development.
 - Bank Teller Project (Java)
 
 ### 📫 How to reach me
-- LinkedIn: [your-link]
+- LinkedIn: https://www.linkedin.com/in/dylan-jefferson/
