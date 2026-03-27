@@ -12,7 +12,7 @@ experience in Full Stack Development.
 - **Tools:** Git, Github, Unix, SQL
 
 ### Currently working on
-- Bank Teller Project (Java)
+- Bank Teller Project (JavaScript)
 
 ### How to reach me
 - LinkedIn: https://www.linkedin.com/in/dylan-jefferson/
